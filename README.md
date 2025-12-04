@@ -43,6 +43,11 @@ Marker gene levels 3dpi:
 
 ### Levels of target genes (ACE2, CTSL, TMPRSS2, TMPRSS4, ENO2, TUBB4B, ALDH1A1)
 ACE2:
+![mock_ace2](https://github.com/rmvjh27/hackbio-stage3/blob/main/mock_ACE2.png)
+![1dpi_ace2](https://github.com/rmvjh27/hackbio-stage3/blob/main/1dpi_ace2.png)
+![2dpi_ace2](https://github.com/rmvjh27/hackbio-stage3/blob/main/2dpi_ace2.png)
+![3dpi_ace2](https://github.com/rmvjh27/hackbio-stage3/blob/main/3dpi_ace2.png)
 
+CTSL:
 ### Reference:
 Ravindra NG, Alfajaro MM, Gasque V, Huston NC, Wan H, et al. (2021) Single-cell longitudinal analysis of SARS-CoV-2 infection in human airway epithelium identifies target cells, alterations in gene expression, and cell state changes. *PLOS Biology* 19(3): e3001143. https://doi.org/10.1371/journal.pbio.3001143
