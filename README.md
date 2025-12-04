@@ -48,6 +48,6 @@ ACE2:
 ![2dpi_ace2](https://github.com/rmvjh27/hackbio-stage3/blob/main/2dpi_ace2.png)
 ![3dpi_ace2](https://github.com/rmvjh27/hackbio-stage3/blob/main/3dpi_ace2.png)
 
-CTSL:
+ENO2:
 ### Reference:
 Ravindra NG, Alfajaro MM, Gasque V, Huston NC, Wan H, et al. (2021) Single-cell longitudinal analysis of SARS-CoV-2 infection in human airway epithelium identifies target cells, alterations in gene expression, and cell state changes. *PLOS Biology* 19(3): e3001143. https://doi.org/10.1371/journal.pbio.3001143
