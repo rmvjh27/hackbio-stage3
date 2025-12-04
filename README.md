@@ -49,5 +49,12 @@ ACE2:
 ![3dpi_ace2](https://github.com/rmvjh27/hackbio-stage3/blob/main/3dpi_ace2.png)
 
 ENO2:
+![mock_eno2](https://github.com/rmvjh27/hackbio-stage3/blob/main/mock_ENO2.png)
+![1dpi_eno2](https://github.com/rmvjh27/hackbio-stage3/blob/main/1dpi_ENO2.png)
+![2dpi_eno2](https://github.com/rmvjh27/hackbio-stage3/blob/main/2dpi_ENO2.png)
+![3dpi_eno2](https://github.com/rmvjh27/hackbio-stage3/blob/main/3dpi_ENO2.png)
+
+*The figures for other target genes (CTSL, TMPRSS2, TMPRSS4, TUBB4B, and ALDH1A1) can be seen in the Jupyter Notebook*
+
 ### Reference:
 Ravindra NG, Alfajaro MM, Gasque V, Huston NC, Wan H, et al. (2021) Single-cell longitudinal analysis of SARS-CoV-2 infection in human airway epithelium identifies target cells, alterations in gene expression, and cell state changes. *PLOS Biology* 19(3): e3001143. https://doi.org/10.1371/journal.pbio.3001143
