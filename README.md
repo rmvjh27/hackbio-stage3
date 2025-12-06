@@ -60,7 +60,7 @@ Marker gene levels 3dpi:
 Inference of differentiation in bronchial epithelial cells 3 days after infection, with club cells (Clara cells) as the root cell:
 ![pseudotime](https://github.com/rmvjh27/hackbio-stage3/blob/main/3dpi_pseudotime.png)
 
-## Discussion:
+## Discussion
 ### Cell type identification
 All the identified cell types that make up the airway epithelium are thus the primary targets of SARS-CoV-2. All of these cell types express ACE2, which encodes a cell surface receptor that is necessary for the entry of SARS-CoV-2 into target cells. Ciliated cells are the main target cells, as these cells retain their proportion of abundance relative to other cell types across all stages of infection, while club cells are secondary target cells, as the abundance of club cells increases as the infection progresses. This is in line with the results found by Ravindra et al. (2021). Furthermore, ACE2 expression levels are higher in ciliated and club cells compared to other cell types after SARS-CoV-2 infection, indicating that SARS-CoV-2 may preferentially infect these two cell types. Ciliated and club cells also have higher expression levels of CTSL and TMPRSS2. These genes code for cathepsin L and transmembrane serine protease 2, respectively, which are also implicated in SARS-CoV-2 entry. Cathepsin L and transmembrane serine protease 2 cleave the SARS-CoV-2 spike protein, which allows membrane fusion between the virus and the host cell, promoting the entry of the virus (Zhao et al. 2021; Koyou et al. 2025).
 ### ACE2 and ENO2 expression levels
@@ -68,7 +68,7 @@ Expression levels of ENO2, particularly in ciliated cells, show more correlation
 ### Trajectory analysis
 Trajectory analysis reveals the differentiation of club cells into ciliated cells and ionocytes after 3 days of infection. Club cells can act as stem cells and help regenerate the bronchiolar epithelium in response to damage by differentiating into ciliated cells, goblet cells, and alveolar cells in case of alveolar damage (Zheng et al. 2017; Davis and Wypych 2021). This indicates that SARS-CoV-2 infection leads to damage to the airway epithelium, causing differentiation of club cells as a repair mechanism. However, the differentiation of club cells into ionocytes lacks sufficient evidence. Club cells and ionocytes have been known to arise from different differentiation paths taken by basal and parabasal stem cells (Cumplido-Laso et al. 2023).
 
-## References:
+## References
 - Cumplido-Laso, G., Benitez, D.A., Mulero-Navarro, S. and Carvajal-Gonzalez, J.M. 2023. Transcriptional regulation of airway epithelial cell differentiation: insights into the notch pathway and beyond. *International Journal of Molecular Sciences* 24(19), p. 14789.
 - Davis, J.D. and Wypych, T.P. 2021. Cellular and functional heterogeneity of the airway epithelium. *Mucosal Immunology* 14(5), pp. 978–990. Available at: https://doi.org/10.1038/s41385-020-00370-7.
 - Koyou, H.L., Salleh, M.N., Jelemie, C.S., Badrin, M.J.Q., Prastiyanto, M.E. and Ramachandran, V. 2025. TMPRSS2: A Key Host Factor in SARS-CoV-2 Infection and Potential Therapeutic Target. *Medeniyet Medical Journal* 40(2), p. 101.
