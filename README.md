@@ -18,12 +18,19 @@ Pseudotime analysis to identify cell differentiation as the infection progresses
 ## Results:
 ### Identified cell types:
 - mock: Ciliated cells, ionocytes, alveolar type I cells
+  
   ![mock_celltypes](https://github.com/rmvjh27/hackbio-stage3/blob/main/mock_cell_types.png)
+  
 - 1dpi: Ciliated cells, club cells (labelled as Clara cells in the figures), alveolar type I cells, airway goblet cells, ionocytes
+  
   ![1dpi_celltypes](https://github.com/rmvjh27/hackbio-stage3/blob/main/1dpi_cell_types.png)
+  
 - 2dpi: Club cells, ciliated cells, alveolar type I cells, ionocytes
+  
   ![2dpi_celltypes](https://github.com/rmvjh27/hackbio-stage3/blob/main/2dpi_cell_types.png)
+  
 - 3dpi: Ciliated cells, club cells, ionocytes
+  
   ![3dpi_celltypes](https://github.com/rmvjh27/hackbio-stage3/blob/main/3dpi_cell_types.png)
 
 Clusters with no labelled cell type likely belong to the same cell type as the clusters nearest to them, based on marker gene levels.
@@ -51,10 +58,15 @@ Clusters with no labelled cell type likely belong to the same cell type as the c
 ### Trajectory Analysis
 Inference of differentiation in bronchial epithelial cells 3 days after infection, with club cells (Clara cells) as the root cell:
 - 1dpi:
+  
   ![1dpi_pseudotime](https://github.com/rmvjh27/hackbio-stage3/blob/main/1dpi_pseudotime.png)
+  
 - 2dpi:
+  
   ![2dpi_pseudotime](https://github.com/rmvjh27/hackbio-stage3/blob/main/2dpi_pseudotime.png)
+  
 - 3dpi:
+  
   ![3dpi_pseudotime](https://github.com/rmvjh27/hackbio-stage3/blob/main/3dpi_pseudotime.png)
 
 ## Discussion
